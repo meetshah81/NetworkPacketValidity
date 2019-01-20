@@ -5,7 +5,7 @@ This is my Coding Challenge repository.
 2. Testing
 
 As it was a 60-minute challenge, it wasn't enough time to write the unit test cases for the application. But, I tested the application
-for various edge cases and also for the data types.
+for various edge cases and also for the data types and the issues to range out the given IP range in network rules was also out of time frame. Hope you understand!
 
 3. Implementation
 
