@@ -18,6 +18,7 @@ hashset and search complexity of O(1).
 If the time would have permitted, I would have thought about implementing proxy design pattern to optimize it. Also, finding an optimal
 time complexity would have been an utmost priority to think about.
 
-5. Teams
+5. Teams I would like to join are in the following prefernces - 
 
-I would like to join Platform team
+1. Platform team
+2. Data team
